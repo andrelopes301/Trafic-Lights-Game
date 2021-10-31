@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/TP.dir/main.c.o CMakeFiles/TP.dir/utils.c.o CMakeFiles/TP.dir/jogo.c.o CMakeFiles/TP.dir/dados.c.o -o TP.exe -Wl,--out-implib,libTP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

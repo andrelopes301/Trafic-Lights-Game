@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/dados.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/jogo.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+jogo.h
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/jogo.h
+utils.h
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/utils.h
+dados.h
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/dados.h
+
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/jogo.h
+dados.h
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/dados.h
+
+/cygdrive/d/EngInf/2Ano/2Sem/P/3. TrabalhoPratico/Prog_AndreLopes_2019139754/TP/utils.h
+
